@@ -1,5 +1,5 @@
 ﻿# Phone Controlled Robot Arm
-This project is a robot arm that uses an Arduino, servo motors, and can be controlled by your phone using an Android app. It can peform tasks like moving the claws and picking items up.
+This project is a robot arm that uses an Arduino, servo motors, and can be controlled by your phone using an Android app. It can peform tasks like moving the claws around and picking items up.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -19,6 +19,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was controlling a servo motor using an Android application in a mobile device, an Arduino, and a HC-05 Bluetooth Module. My first step was just getting to know how to use servo motors. Next, I learned how to control an LED light using the HC-05 Bluetooth Module and the Android application. After having a good understanding of how to use the Bluetooth Module and the Android application, I started working on controlling a servo motor with these new components. I connected my Arduino with my servo motor and my HC-05 Bluetooth Module, and then I paired my phone with my Bluetooth Module. After everything was connected and some troubleshooting later, I was able to successfully control a servo motor with my phone.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1657383370/video_to_markdown/images/youtube--YKJLmAtGtAE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/YKJLmAtGtAE "Milestone 1"){:target="_blank" rel="noopener"}
