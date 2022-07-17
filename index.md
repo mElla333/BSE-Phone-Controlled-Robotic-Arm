@@ -3,7 +3,7 @@ This project is a robot arm that uses an Arduino, servo motors, and can be contr
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Ella | Las Lomas High School | Mechanical Engineering, Computer Science | Incoming Sophomore
+| Ella G | Las Lomas High School | Mechanical Engineering, Computer Science | Incoming Sophomore
 
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
@@ -13,9 +13,9 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+For my second milestone, the first step was building the robotic arm. After building my robotic arm with the Adeept Robotic Arm Kit for Arduino, I attempted to try to control my robotic arm with potentiometers. However, an issue I ran into was that some of the motors weren't working. But, after testing the motors and trying different possible solutions, I was able to control my robotic arm with the potentiometers. Now that I knew all my motors were working, my final step for this milestone was controlling my robotic arm using a graphical user interface(GUI). I uploaded the code and connected the GUI from my computer to my robotic arm, however I still couldn't control my robotic arm. Nonetheless, I kept on debugging to find out what could have been the problem, and I ended up getting a working GUI controlled robotic arm.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1658021665/video_to_markdown/images/youtube--fvBKJXSMHgc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/fvBKJXSMHgc "Milestone 2"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
