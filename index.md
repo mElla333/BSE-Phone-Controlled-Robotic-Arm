@@ -1,5 +1,7 @@
-﻿# Phone Controlled Robot Arm
-This project is a robot arm that uses an Arduino, servo motors, and can be controlled by your phone using an Android app. It can peform tasks like moving the claws around and picking items up.
+﻿# Phone Controlled Robotic Arm
+This project is a robotic arm that uses an Arduino, servo motors, and can be controlled by your phone using an Android app. It can peform tasks like moving the claws around and picking items up.
+
+<a href="https://ibb.co/ZhT4TvC"><img src="https://i.ibb.co/fC060Z7/Screenshot-2022-07-18-100644.png" alt="Screenshot-2022-07-18-100644" border="0"></a>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
