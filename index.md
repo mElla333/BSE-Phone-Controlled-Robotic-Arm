@@ -1,12 +1,14 @@
 ﻿# Phone Controlled Robotic Arm
-Hi, I'm Ella! This project that I chose is a robotic arm that uses an Arduino, servo motors, and can be controlled by your phone using an Android app. It can peform tasks like moving around at its joints and picking items up with its claw.
+Hi, I'm Ella! This project that I chose is a robotic arm that uses an Adeept robotic arm drive board, servo motors, and can be controlled by your phone using an Android app. It can peform tasks like moving around at its joints and picking items up with its claw.
 
 <a href="https://ibb.co/pWPG7v3"><img src="https://i.ibb.co/PTY3LZ5/Screenshot-2022-07-18-100644.png" alt="Screenshot-2022-07-18-100644" border="0"></a><br />
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Ella G | Las Lomas High School | Mechanical Engineering, Computer Science | Incoming Sophomore
-
+ 
+# Final Milestone
+Below is an image of my phone controlled robotic arm. In the photo, you can see the robotic arm that uses servo motors as well as the Adeept driver board that it is connected to. You can also see the phone with the Android application.
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
 # Final Milestone
