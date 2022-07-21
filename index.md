@@ -21,8 +21,8 @@ My final milestone was controlling my robotic arm using processing, and controll
 For my second milestone, the first step was building the robotic arm. After building my robotic arm with the Adeept Robotic Arm Kit for Arduino, I attempted to try to control my robotic arm with potentiometers. However, an issue I ran into was that some of the motors weren't working. But, after testing the motors and trying different possible solutions, I was able to control my robotic arm with the potentiometers. Now that I knew all my motors were working, my final step for this milestone was controlling my robotic arm using a graphical user interface(GUI). I uploaded the code and connected the GUI from my computer to my robotic arm, however I still couldn't control my robotic arm. Nonetheless, I kept on debugging to find out what could have been the problem, and I ended up getting a working GUI controlled robotic arm.
 
 [![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1658021665/video_to_markdown/images/youtube--fvBKJXSMHgc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/fvBKJXSMHgc "Milestone 2"){:target="_blank" rel="noopener"}
+
 # First Milestone
-  
 
 My first milestone was controlling a servo motor using an Android application in a mobile device, an Arduino, and a HC-05 Bluetooth Module. My first step was just getting to know how to use servo motors. Next, I learned how to control an LED light using the HC-05 Bluetooth Module and the Android application. After having a good understanding of how to use the Bluetooth Module and the Android application, I started working on controlling a servo motor with these new components. I connected my Arduino with my servo motor and my HC-05 Bluetooth Module, and then I paired my phone with my Bluetooth Module. After everything was connected and some troubleshooting later, I was able to successfully control a servo motor with my phone.
 
@@ -39,6 +39,13 @@ My first milestone was controlling a servo motor using an Android application in
 | Jumper Wires  | 6 | 10¢/wire  |  https://www.amazon.com/Breadboard-Jumper-Wire-75pcs-pack/dp/B0040DEI9M |
 | Arduino Uno Board  | 1  | $27.60  | https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us  |
 | Arduino IDE  | 1  | $0  | https://www.arduino.cc/en/software/ |
+| HC-05 Bluetooth Module  | 1  | $9.99  | https://www.amazon.com/DSD-TECH-HC-05-Pass-through-Communication/dp/B01G9KSAF6 |
+
+# Schematics
+
+This is a schematic of the Adeept robotic arm drive board that is connected to the robotic arm.
+
+<a href="https://ibb.co/jzppdJK"><img src="https://i.ibb.co/Nr44XTh/c14cded516.jpg" alt="c14cded516" border="0"></a>
 
 # Arduino Code for Processing
 
