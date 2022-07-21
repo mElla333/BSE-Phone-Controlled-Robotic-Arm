@@ -41,7 +41,7 @@ My first milestone was controlling a servo motor using an Android application in
 | Arduino IDE  | 1  | $0  | https://www.arduino.cc/en/software/ |
 
 # Arduino Code for Processing
-'''
+```
 #include <Servo.h>
 int servopin1 = 9;    //Define servo interface digital interface 9
 int servopin2 = 6;    //Define servo interface digital interface 6
@@ -174,10 +174,10 @@ void loop() {
   while(Serial.available()>0);
 
 }
-'''
+```
 
 # Processing Code
-'''
+```
 import controlP5.*;
 import processing.serial.*;
 
@@ -818,4 +818,5 @@ void buttonColor() {
     }
   }
 }
-'''
+```
+
