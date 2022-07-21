@@ -49,8 +49,10 @@ My first milestone was controlling a servo motor using an Android application in
 
 This is a schematic of the Adeept robotic arm drive board that is connected to the robotic arm.
 
+<p align="center">
 <a href="https://ibb.co/jzppdJK"><img src="https://i.ibb.co/Nr44XTh/c14cded516.jpg" alt="c14cded516" border="0"></a>
-
+</p>  
+ 
 # Arduino Code for Processing
 
 ```
