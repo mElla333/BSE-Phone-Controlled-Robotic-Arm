@@ -16,6 +16,13 @@ My phone controlled robotic arm uses servo motors as well as the Adeept driver b
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/FJFtK3S/Screenshot-2022-07-20-092834.png" alt="Screenshot-2022-07-20-092834" border="0"></a>
 </p>  
 
+# Demo Video
+This is a video where I demonstrate the different ways to control the robotic arm.
+
+# Presentation Slideshow
+This is the slideshow I used to present my robotic arm.
+<p><iframe src="https://docs.google.com/presentation/d/1mRPknzSgvDGCmslaUXowBhGTV7cQvZlDl6_bd2wAfos/edit#slide=id.g13d9a94b7c6_0_13" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+
 # Final Milestone
 My final milestone was controlling my robotic arm using processing, and controlling my robotic arm using the HC-05 bluetooth module and Android application. For the processing, I had to download the processing software and then upload both the arduino code and the processing code. This allowed me to control my robotic arm using my keyboard and my mouse. When controlling my robotic arm using the bluetooth module and the Android application, I had to connect the bluetooth module to the driver board, and download the APK on my phone. Then, after pairing the bluetooth module with the phone, I uploaded the arduino code to the board. However due to some hardware technical issues, I unfortunately couldn't control my robotic arm.
 
