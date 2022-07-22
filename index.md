@@ -31,7 +31,9 @@ My final milestone was controlling my robotic arm using processing, and controll
 # Second Milestone
 For my second milestone, the first step was building the robotic arm. After building my robotic arm with the Adeept Robotic Arm Kit for Arduino, I attempted to try to control my robotic arm with potentiometers. However, an issue I ran into was that some of the motors weren't working. But, after testing the motors and trying different possible solutions, I was able to control my robotic arm with the potentiometers. Now that I knew all my motors were working, my final step for this milestone was controlling my robotic arm using a graphical user interface(GUI). I uploaded the code and connected the GUI from my computer to my robotic arm, however I still couldn't control my robotic arm. Nonetheless, I kept on debugging to find out what could have been the problem, and I ended up getting a working GUI controlled robotic arm.
 
-[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1658021665/video_to_markdown/images/youtube--fvBKJXSMHgc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/fvBKJXSMHgc "Milestone 2"){:target="_blank" rel="noopener"}
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvBKJXSMHgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p> 
 
 # First Milestone
 
