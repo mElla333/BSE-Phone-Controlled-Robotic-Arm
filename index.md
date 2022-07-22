@@ -2,7 +2,7 @@
 Hi, I'm Ella! The project that I chose is a robotic arm that uses an Adeept robotic arm drive board, servo motors, a HC-05 bluetooth module, and it can be controlled by your phone using an Android app. It can peform tasks like moving around at its joints and picking items up with its claw.
 
 <p align="center">
-<a width="511" height="708"href="https://ibb.co/D9zsCqt"><img src="https://i.ibb.co/9bczTMN/Screenshot-2022-07-18-100644.png" alt="Screenshot-2022-07-18-100644" border="0"></a>
+<a width="411" height="608"href="https://ibb.co/D9zsCqt"><img src="https://i.ibb.co/9bczTMN/Screenshot-2022-07-18-100644.png" alt="Screenshot-2022-07-18-100644" border="1"></a>
 </p>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -21,7 +21,7 @@ This is a video where I demonstrate the different ways to control the robotic ar
 
 # Presentation Slideshow
 This is the slideshow I used to present my robotic arm.
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAywc4O19gQMFhUNsaO9toD0cS7JeyIZxpjopdfQql0vQ31uWEubBbTo9SzM_yfvdRYZ7gdrsVYq0E/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAywc4O19gQMFhUNsaO9toD0cS7JeyIZxpjopdfQql0vQ31uWEubBbTo9SzM_yfvdRYZ7gdrsVYq0E/embed?start=false&loop=false&delayms=3000" frameborder="0" width="860" height="469" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 # Final Milestone
 My final milestone was controlling my robotic arm using processing, and controlling my robotic arm using the HC-05 bluetooth module and Android application. For the processing, I had to download the processing software and then upload both the arduino code and the processing code. This allowed me to control my robotic arm using my keyboard and my mouse. When controlling my robotic arm using the bluetooth module and the Android application, I had to connect the bluetooth module to the driver board, and download the APK on my phone. Then, after pairing the bluetooth module with the phone, I uploaded the arduino code to the board. However due to some hardware technical issues, I unfortunately couldn't control my robotic arm.
