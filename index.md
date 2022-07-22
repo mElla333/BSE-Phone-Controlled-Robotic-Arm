@@ -19,6 +19,10 @@ My phone controlled robotic arm uses servo motors as well as the Adeept driver b
 # Demo Video
 This is a video where I demonstrate the different ways to control the robotic arm.
 
+<p align="center">
+<iframe width="660" height="415" src="https://www.youtube.com/embed/2qtGYQsg6Fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 # Presentation Slideshow
 This is the slideshow I used to present my robotic arm.
 
