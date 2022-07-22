@@ -2,7 +2,7 @@
 Hi, I'm Ella! The project that I chose is a robotic arm that uses an Adeept robotic arm drive board, servo motors, a HC-05 bluetooth module, and it can be controlled by your phone using an Android app. It can peform tasks like moving around at its joints and picking items up with its claw.
 
 <p align="center">
-<a width="411" height="608"href="https://ibb.co/D9zsCqt"><img src="https://i.ibb.co/9bczTMN/Screenshot-2022-07-18-100644.png" alt="Screenshot-2022-07-18-100644" border="1"></a>
+<a width="411" height="608" href="https://ibb.co/D9zsCqt"><img src="https://i.ibb.co/9bczTMN/Screenshot-2022-07-18-100644.png" alt="Screenshot-2022-07-18-100644" border="1"></a>
 </p>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
