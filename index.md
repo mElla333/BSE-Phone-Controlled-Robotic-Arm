@@ -30,14 +30,14 @@ This is the slideshow I used to present my robotic arm.
 My final milestone was controlling my robotic arm using processing, and controlling my robotic arm using the HC-05 bluetooth module and Android application. For the processing, I had to download the processing software and then upload both the arduino code and the processing code. This allowed me to control my robotic arm using my keyboard and my mouse. When controlling my robotic arm using the bluetooth module and the Android application, I had to connect the bluetooth module to the driver board, and download the APK on my phone. Then, after pairing the bluetooth module with the phone, I uploaded the arduino code to the board. However due to some hardware technical issues, I unfortunately couldn't control my robotic arm.
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K3BvrV7_TUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="660" height="415" src="https://www.youtube.com/embed/K3BvrV7_TUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p> 
  
 # Second Milestone
 For my second milestone, the first step was building the robotic arm. After building my robotic arm with the Adeept Robotic Arm Kit for Arduino, I attempted to try to control my robotic arm with potentiometers. However, an issue I ran into was that some of the motors weren't working. But, after testing the motors and trying different possible solutions, I was able to control my robotic arm with the potentiometers. Now that I knew all my motors were working, my final step for this milestone was controlling my robotic arm using a graphical user interface(GUI). I uploaded the code and connected the GUI from my computer to my robotic arm, however I still couldn't control my robotic arm. Nonetheless, I kept on debugging to find out what could have been the problem, and I ended up getting a working GUI controlled robotic arm.
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvBKJXSMHgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="660" height="415" src="https://www.youtube.com/embed/fvBKJXSMHgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p> 
 
 # First Milestone
@@ -45,7 +45,7 @@ For my second milestone, the first step was building the robotic arm. After buil
 My first milestone was controlling a servo motor using an Android application in a mobile device, an Arduino, and a HC-05 Bluetooth Module. My first step was just getting to know how to use servo motors. Next, I learned how to control an LED light using the HC-05 Bluetooth Module and the Android application. After having a good understanding of how to use the Bluetooth Module and the Android application, I started working on controlling a servo motor with these new components. I connected my Arduino with my servo motor and my HC-05 Bluetooth Module, and then I paired my phone with my Bluetooth Module. After everything was connected and some troubleshooting later, I was able to successfully control a servo motor with my phone.
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YKJLmAtGtAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="660" height="415" src="https://www.youtube.com/embed/YKJLmAtGtAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
  
 # Bill of Materials
